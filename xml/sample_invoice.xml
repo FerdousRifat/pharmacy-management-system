@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <invoice_id>1</invoice_id>
+  <sale_date>2026-04-08</sale_date>
+  <customer>
+    <name>John Doe</name>
+    <phone>1234567890</phone>
+  </customer>
+  <items>
+    <item>
+      <medicine_name>Paracetamol</medicine_name>
+      <quantity>2</quantity>
+      <price>5.50</price>
+    </item>
+  </items>
+  <total>11.00</total>
+</invoice>

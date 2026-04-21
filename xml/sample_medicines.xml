@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medicines>
+  <medicine>
+    <name>Paracetamol</name>
+    <category>Tablet</category>
+    <batch_no>B001</batch_no>
+    <expiry_date>2027-12-31</expiry_date>
+    <quantity>100</quantity>
+    <price>5.50</price>
+    <supplier_id>1</supplier_id>
+  </medicine>
+
+  <medicine>
+    <name>Amoxicillin</name>
+    <category>Capsule</category>
+    <batch_no>B002</batch_no>
+    <expiry_date>2027-10-15</expiry_date>
+    <quantity>50</quantity>
+    <price>12.00</price>
+    <supplier_id>1</supplier_id>
+  </medicine>
+</medicines>
